@@ -193,7 +193,7 @@ Bg2.addEventListener('click', () => {
 Bg3.addEventListener('click', () => {
     darkColorLightness = '95%';
     whiteColorLightness = '10%';
-    lightolorLightness = '0%';
+    lightColorLightness = '0%';
 
     Bg3.classList.add('active')
     Bg2.classList.remove('active')
